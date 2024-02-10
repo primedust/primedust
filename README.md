@@ -2,6 +2,6 @@
 
 [![Discord Bots](https://top.gg/api/widget/1041819232847003729.svg)](https://top.gg/bot/1041819232847003729)
 
-[![](https://cdn.pawns.app/images/b/160.jpg)](https://pawns.app/?r=3578982)url=https://pawns.app/?r=3578982]
+[![](https://cdn.pawns.app/images/b/160.jpg)](https://pawns.app/?r=3578982)
 
 
